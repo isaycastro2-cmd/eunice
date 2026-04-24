@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Products - Glow Cosmetics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Glow Cosmetics</h1>
+</header>
+
+<nav>
+    <a href="home.html">Home</a>
+    <a href="products.html">Products</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<h2>Our Products</h2>
+
+<div class="product">
+    <img src="im">
+    <h3>Lipstick</h3>
+    <p>₱199</p>
+</div>
+
+<div class="product">
+    <img src= "img/foundation.jpg"
+    <h3>Foundation</h3>
+    <p>₱299</p>
+</div>
+
+</body>
+</html>

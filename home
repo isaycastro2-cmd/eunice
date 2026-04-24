@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Glow Cosmetics</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Glow Cosmetics</h1>
+    <p>Enhance Your Natural Beauty</p>
+</header>
+
+<section>
+    <h2>Our Products</h2>
+
+    <div class="product">
+        <img src="img/lipstick.jpg">
+        <h3>Lipstick</h3>
+        <p class="details">Matte finish, long lasting<br>₱199</p>
+    </div>
+
+    <div class="product">
+        <img src="img/foundation.jpg"
+        <h3>Foundation</h3>
+        <p class="details">Smooth and flawless coverage<br>₱299</p>
+    </div>
+
+    <div class="product">
+        <img src="img/blush.jpg">
+        <h3>Blush</h3>
+        <p class="details">Gives a natural glow<br>₱249</p>
+    </div>
+
+</section>
+
+<footer>
+    <p>Contact: isaycastro2@gmail.com</p>
+</footer>
+
+</body>
+</html>
